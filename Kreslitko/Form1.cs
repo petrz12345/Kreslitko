@@ -46,7 +46,7 @@ namespace Kreslitko
 
 
             //připojit grafiku na obrázkovou krabici
-            mobjGraphics = pbCanvas.CreateGraphics(); 
+            mobjGraphics = pbCanvas.CreateGraphics();
 
             menState = enHandState.disabled;
         }
